@@ -1,7 +1,7 @@
 # AI Reporter
 
-A Python command-line tool that fetches live data from public APIs, has an LLM
-summarize it, and emails the result.
+A Python command-line tool that fetches live data from public APIs, uses an LLM
+to summarize it, and emails the result.
 
 ## How it works
 1. Validates the email address and report type.
